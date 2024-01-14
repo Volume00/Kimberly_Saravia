@@ -3,7 +3,6 @@ function apriLettera() {
     var contenuto = document.getElementById("contenuto");
     var music = document.getElementById("music");
 
-        
         music.play();
   
     lettera.style.transform = "rotateY(-180deg)";
